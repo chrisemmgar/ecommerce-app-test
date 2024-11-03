@@ -1,5 +1,5 @@
-export { default as CamisaMao } from "./CamisaMao.jpg";
-export { default as CamisaCorta } from "./CamisaCorta.jpg";
-export { default as ChamarraMezclilla } from "./ChamarraMezclilla.jpg";
-export { default as ChamarraBiker } from "./ChamarraBiker.jpg";
-export { default as HeaderImages } from "./HeaderImages.jpg";
+export { default as CamisaMao } from "./CamisaMao.png";
+export { default as CamisaCorta } from "./CamisaCorta.png";
+export { default as ChamarraMezclilla } from "./ChamarraMezclilla.png";
+export { default as ChamarraBiker } from "./ChamarraBiker.png";
+export { default as HeaderImages } from "./HeaderImages.png";
