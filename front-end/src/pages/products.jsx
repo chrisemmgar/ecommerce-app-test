@@ -1,13 +1,13 @@
-import React from 'react';
-import ProductDesc from '../components/productDesc'
+// import React from 'react';
+// import ProductDesc from '../components/productDesc'
 
-const Product = () => {
-  return (
-    <section>
-      <div>
-        <ProductDesc />
-        <DisplayProd/>
-      </div>
-    </section>
-  )
-}
+// const Product = () => {
+//   return (
+//     <section>
+//       <div>
+//         <ProductDesc />
+//         <DisplayProd/>
+//       </div>
+//     </section>
+//   )
+// }
