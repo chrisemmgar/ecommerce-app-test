@@ -1,0 +1,1 @@
+//Servira para poder hacer configuraciones que se pueden utilizar de manera global
